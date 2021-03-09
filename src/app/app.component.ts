@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'breeze-addressbook';
+  title = 'Breeze Address Book';
 }
+
+// Ideas:
+// -Search in Header
+// -Toast message on add/update/delete
+// -Expandable contact
+// -Tab Control w/ Favorites
+
